@@ -5,6 +5,16 @@
   Blog Web Application is an application made in Express JS and Node Js. It allows the user to add,delete anything into the database.
   We hope you enjoy and I look forward to your co-operations
   
+# How to Run It
+  First install Node in your computer
+  then run the following command in your terminal
+  ``` npm i ```
+  
+  Run the command 
+  ```node app.js```
+  To activate the Database Run the following command 
+  ```mongod <your bin directory of MongoDB>```
+  
  # Contribution
   We welcome any and all contributions! Here are some ways you can get started:
 
